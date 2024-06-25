@@ -1,3 +1,4 @@
 # im learning Git
-# in AIotix
+# in AIotrix
 # mangalore 
+# bixbytessolutions
